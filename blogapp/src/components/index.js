@@ -9,6 +9,9 @@ import Footer from "./footer/Footer";
 import Header from "./header/Header";
 import LogoutBtn from "./header/LogoutBtn";
 import RTE from "./RTE";
+import PostForm from "./post-form/PostForm";
+import Login from "./Login";
+import Signup from "./Signup";
 
 export {
   Protected,
@@ -21,5 +24,8 @@ export {
   Footer,
   Header,
   LogoutBtn,
-  RTE
+  RTE,
+  PostForm,
+  Login,
+  Signup,
 };
